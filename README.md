@@ -5,15 +5,23 @@
 
 # October 29-30 • San Francisco, CA • The Worldʼs Fair of Software
 
-Where AI and security transform the developer experience. Universe will deliver two days of engaging sessions, discussions and interactive experiences for in person attendees. We'll be streaming keynotes and a curated selection of live sessions on githubuniverse.com. All registered attendees will have access to recorded sessions once the event concludes.
-
-## Register for a free virtual entry
-
-Can't make it to San Francisco for GitHub Universe? No problem! Join us virtually with a free online ticket and experience the excitement from wherever you are. Watch live streams of our keynote speeches and select presentations. Get your [free virtual ticket](https://githubuniverse.com/) today!
+Where AI and security transform the developer experience. Universe will deliver two days of engaging sessions, discussions and interactive experiences for in person attendees. We'll be streaming keynotes and a curated selection of live sessions on [githubuniverse.com](githubuniverse.com). All registered attendees will have access to recorded sessions once the event concludes.
 
 ## Enter the Sweepstake for a chance to win an in-person ticket
 
-Enter the sweepstake [here](https://www.research.net/r/P5KRTG9).
+Already planning to be in San Francisco? Here's your chance to win a free in-person ticket!
+
+## What's at stake?
+One lucky winner will receive a general admission pass to attend GitHub Universe 2024 in San Francisco, CA on October 29-30. This prize, valued at $1,299, includes access to all conference sessions, demos, networking events, and more.
+
+## How to enter:
+1. Visit our [sweepstakes entry page](https://www.research.net/r/P5KRTG9)
+2. Complete the registration form
+3. Cross your fingers!
+
+The sweepstakes runs from October 14-18, 2024. This is a great opportunity for those already planning to be in San Francisco to potentially attend the event for free!
+
+Note: This sweepstakes is for the in-person event ticket only. Travel and accommodation are not included, see full rules below.
 
 <details>
   <summary>👈🏼 Click to read the sweepstakes terms and conditions.</summary>
@@ -84,4 +92,6 @@ Send an email to angriff@microsoft.com with the subject line "GitHub Universe Ti
 
 Winner will be announced live at the end of the Open Source Friday live stream on 10/18/24 tune in: [https://gh.io/universe-prize](https://gh.io/universe-prize)
 
+## Register for a free virtual entry
 
+Can't make it to San Francisco for GitHub Universe? No problem! Join us virtually with a free online ticket and experience the excitement from wherever you are. Watch live streams of our keynote speeches and select presentations. Get your [free virtual ticket](https://githubuniverse.com/) today!
