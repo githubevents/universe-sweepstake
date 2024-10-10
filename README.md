@@ -8,18 +8,20 @@
 &nbsp;•&nbsp;
 [Speakers](https://reg.rainfocus.com/flow/github/universe24/attendee-portal/page/speakers)
 
-## October 29-30 • San Francisco, CA • The worldʼs fair of software
+## October 29-30 • San Francisco, CA • The Worldʼs Fair of Software
 
 Where AI and security transform the developer experience.
 
 ## Register for the free virtual event
 
-Get your free [virtual ticket]([https://githubuniverse.com/](https://reg.githubuniverse.com/flow/github/universe24/Registration/login).
+Get your free [virtual ticket]([https://githubuniverse.com/).
 
 ## Enter the Sweepstake for a chance to win an in-person ticket
 
+Enter the sweepstake [here](https://www.research.net/r/P5KRTG9).
+
 <details>
-  <summary> By participating in this sweepstake, you are agreeing to the [Terms of Service]</summary>
+  <summary> 👈🏼 Click to read the sweepstakes terms and conditions.</summary>
   
   ## MICROSOFT GITHUB UNIVERSE TICKET SWEEPSTAKES
 OFFICIAL RULES
@@ -103,4 +105,4 @@ Send an email to angriff@microsoft.com with the subject line “GitHub Universe 
 </details>
 
 ## Winner Selection
-Winner will be announce live at the end of Open Source Friday on 10/18/24 tune in: https://gh.io/friday-win
+Winner will be announced live at the end of the Open Source Friday live stream on 10/18/24 tune in: [https://gh.io/universe-prize](https://gh.io/universe-prize)
