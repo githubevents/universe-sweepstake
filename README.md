@@ -1,28 +1,23 @@
-<img width="660" alt="660x284_Email_Banner_Dark_03@2x" src="https://github.com/user-attachments/assets/d756cd34-f314-4e08-bf77-ecd5ec2daa26">
 
+![660x284_Email_Banner_Dark_03@2x](https://github.com/user-attachments/assets/d756cd34-f314-4e08-bf77-ecd5ec2daa26)
 
+[https://githubuniverse.com](https://githubuniverse.com) • [Schedule](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog?tab.day=20241029) • [Speakers](https://reg.rainfocus.com/flow/github/universe24/attendee-portal/page/speakers)
 
-[https://githubuniverse.com](https://githubuniverse.com)
-&nbsp;•&nbsp;
-[Schedule](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog?tab.day=20241029)
-&nbsp;•&nbsp;
-[Speakers](https://reg.rainfocus.com/flow/github/universe24/attendee-portal/page/speakers)
-
-## October 29-30 • San Francisco, CA • The Worldʼs Fair of Software
+# October 29-30 • San Francisco, CA • The Worldʼs Fair of Software
 
 Where AI and security transform the developer experience.
 
 ## Register for the free virtual event
 
-Can't make it to San Francisco for GitHub Universe? No problem! Join us virtually with a free online ticket and experience the excitement from wherever you are. Watch live streams of our keynote speeches and select presentations. Get your [free virtual ticket]([https://githubuniverse.com/) today!
+Can't make it to San Francisco for GitHub Universe? No problem! Join us virtually with a free online ticket and experience the excitement from wherever you are. Watch live streams of our keynote speeches and select presentations. Get your [free virtual ticket](https://githubuniverse.com/) today!
 
 ## Enter the Sweepstake for a chance to win an in-person ticket
 
 Enter the sweepstake [here](https://www.research.net/r/P5KRTG9).
 
 <details>
-  <summary> 👈🏼 Click to read the sweepstakes terms and conditions.</summary>
-  
+  <summary>👈🏼 Click to read the sweepstakes terms and conditions.</summary>
+
 # MICROSOFT GITHUB UNIVERSE TICKET SWEEPSTAKES OFFICIAL RULES
 
 ## 1. SPONSOR
@@ -86,4 +81,7 @@ Send an email to angriff@microsoft.com with the subject line "GitHub Universe Ti
 </details>
 
 ## Winner Selection
+
 Winner will be announced live at the end of the Open Source Friday live stream on 10/18/24 tune in: [https://gh.io/universe-prize](https://gh.io/universe-prize)
+
+
