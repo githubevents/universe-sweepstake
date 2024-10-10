@@ -4,7 +4,7 @@
 
 [https://githubuniverse.com](https://githubuniverse.com)
 &nbsp;•&nbsp;
-[Schedule](https://githubuniverse.com/schedule/)
+[Schedule](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog?tab.day=20241029)
 &nbsp;•&nbsp;
 [Speakers](https://reg.rainfocus.com/flow/github/universe24/attendee-portal/page/speakers)
 
