@@ -14,7 +14,7 @@ Where AI and security transform the developer experience.
 
 ## Register for the free virtual event
 
-Get your free [virtual ticket]([https://githubuniverse.com/](https://reg.githubuniverse.com/flow/github/universe24/Registration/login)).
+Get your free [virtual ticket]([https://githubuniverse.com/](https://reg.githubuniverse.com/flow/github/universe24/Registration/login).
 
 ## Enter the Sweepstake for a chance to win an in-person ticket
 
