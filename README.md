@@ -14,7 +14,7 @@ Where AI and security transform the developer experience.
 
 ## Register for the free virtual event
 
-Get your free [virtual ticket]([https://githubuniverse.com/).
+Can't make it to San Francisco for GitHub Universe? No problem! Join us virtually with a free online ticket and experience the excitement from wherever you are. Watch live streams of our keynote speeches and select presentations. Get your [free virtual ticket]([https://githubuniverse.com/) today!
 
 ## Enter the Sweepstake for a chance to win an in-person ticket
 
