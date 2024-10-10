@@ -5,9 +5,9 @@
 
 # October 29-30 • San Francisco, CA • The Worldʼs Fair of Software
 
-Where AI and security transform the developer experience.
+Where AI and security transform the developer experience. Universe will deliver two days of engaging sessions, discussions and interactive experiences for in person attendees. We'll be streaming keynotes and a curated selection of live sessions on githubuniverse.com. All registered attendees will have access to recorded sessions once the event concludes.
 
-## Register for the free virtual event
+## Register for a free virtual entry
 
 Can't make it to San Francisco for GitHub Universe? No problem! Join us virtually with a free online ticket and experience the excitement from wherever you are. Watch live streams of our keynote speeches and select presentations. Get your [free virtual ticket](https://githubuniverse.com/) today!
 
